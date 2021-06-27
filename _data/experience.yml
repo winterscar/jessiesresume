@@ -37,21 +37,21 @@
   position: Party host
   duration: 2015 &mdash; 2015 (1yrs)
   summary: |
-  Restaurant:
-    <ul class="resume-item-list">
-      <li>Daily cleaning and upkeep of the restaurant</li>
-      <li>Greeting and seating guests</li>
-      <li>Taking orders and payments</li>
-      <li>Making deserts and running food</li>
-      <li>Serving on the bar and restocking</li>
-    </ul>
-    Wacky Warehouse:
-    <ul class="resume-item-list">
-      <li>Preparing party rooms and hosting children’s parties</li>
-      <li>Entertaining the children</li>
-      <li>Daily cleaning of the play kit, toilets, cafe area and closing down</li>
-      <li>Dealing with accidents and administering first aid if necessary</li>
-    </ul>
+    Restaurant:
+      <ul class="resume-item-list">
+        <li>Daily cleaning and upkeep of the restaurant</li>
+        <li>Greeting and seating guests</li>
+        <li>Taking orders and payments</li>
+        <li>Making deserts and running food</li>
+        <li>Serving on the bar and restocking</li>
+      </ul>
+      Wacky Warehouse:
+      <ul class="resume-item-list">
+        <li>Preparing party rooms and hosting children’s parties</li>
+        <li>Entertaining the children</li>
+        <li>Daily cleaning of the play kit, toilets, cafe area and closing down</li>
+        <li>Dealing with accidents and administering first aid if necessary</li>
+      </ul>
 
 - company: Meadowside CP and Nursery School
   position: Volunteer teaching assistant
