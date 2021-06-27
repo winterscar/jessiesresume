@@ -24,8 +24,8 @@ resume_header_contact_info:     "Cheshire, England • 1 • cv-jessie@pasquet.c
 display_header_contact_info:    "false"
 
 resume_header_intro: |
-  I am a highly motivated conscientious individual who is charismatic and loves to help people. I work well on
-  my own or as part of a team. I am determined and eager to learn new skills.
+  <p>I am a highly motivated conscientious individual who is charismatic and loves to help people. I work well on
+  my own or as part of a team. I am determined and eager to learn new skills.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

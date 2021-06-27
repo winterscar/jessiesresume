@@ -1,11 +1,27 @@
 # Degree
-- degree: Bachelors, Computer Systems Engineering
-  uni: University of Manchester
-  year: 2014 &mdash; 20017
-  awards: Graduated with 2.1
+- degree: Bachelor of Arts with Honors
+  uni: Liverpool Media Academy
+  year: 2016 &mdash; 2019
+  awards: Musical theatre - Graduated first class
 
-- degree: Baccalauréat S
-  uni: Lycee Francais International George Pompidou
-  year: 2011 &mdash; 2014
-  award: Most likely to succeed
-  summary: Attended high school in French, in Dubai
+- degree: BTEC
+  uni: Warrington Collegiate
+  year: 2012 &mdash; 2016
+  awards: |
+    <ul class="resume-item-list">
+      <li>BTEC National Diploma Musical Theatre Extended Level 3 - D*DD</li>
+      <li>BTEC National Diploma in Dance Extended Level 3 - D*D*D*</li>
+    </ul>
+    (Where D* is the highest achievable grade)
+
+- degree: GCSE's
+  uni: Sir Thomas Boteler High School
+  year: 2007 &mdash; 2012
+  awards: | 
+    <ul class="resume-item-list">
+      <li>Mathematics - C</li>
+      <li>English Language and Literature - C</li>
+      <li>Science - B</li>
+      <li>Art and Design - B</li>
+      <li>History - B</li>
+    </ul>
