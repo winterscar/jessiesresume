@@ -1,13 +1,13 @@
 # Degree
 - degree: Bachelor of Arts with Honors
-  uni: Liverpool Media Academy
+  uni: LMA
   year: 2016 &mdash; 2019
-  awards: Musical theatre - Graduated first class
+  summary: Musical theatre - Graduated first class
 
 - degree: BTEC
-  uni: Warrington Collegiate
+  uni: Warrington & Vale Royal College
   year: 2012 &mdash; 2016
-  awards: |
+  summary: |
     <ul class="resume-item-list">
       <li>BTEC National Diploma Musical Theatre Extended Level 3 - D*DD</li>
       <li>BTEC National Diploma in Dance Extended Level 3 - D*D*D*</li>
@@ -17,7 +17,7 @@
 - degree: GCSE's
   uni: Sir Thomas Boteler High School
   year: 2007 &mdash; 2012
-  awards: | 
+  summary: | 
     <ul class="resume-item-list">
       <li>Mathematics - C</li>
       <li>English Language and Literature - C</li>
